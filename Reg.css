@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+div{
+    display: inline-block;
+    background-color: whitesmoke;
+}
+.a{
+    border-radius: 5%;
+}
